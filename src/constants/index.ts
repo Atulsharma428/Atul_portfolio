@@ -16,17 +16,13 @@ import {
   javascript,
   typescript,
   html,
-  css,
   reactjs,
   tailwind,
-  nodejs,
   git,
-  postman,
   Jio,
   persistent,
   salesforce,
   trillo2,
-  threejs,
   yolo,
   XAI,
   nexter,
@@ -34,8 +30,6 @@ import {
   natour,
   linux,
   python,
-  vercel,
-  github,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
