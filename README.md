@@ -7,7 +7,7 @@ Welcome to my personal portfolio project, showcasing my skills, projects, and ex
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio [here]([https://atulsharma.vercel.app](https://atul-sharma-portfolio.vercel.app/#about)) 
+Check out the live version of my portfolio. [Live link](https://atul-sharma-portfolio.vercel.app)
 
 ## ✨ Features
 
