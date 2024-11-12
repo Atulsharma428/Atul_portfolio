@@ -2,9 +2,7 @@
 
 Welcome to my personal portfolio project, showcasing my skills, projects, and experiences using **Three.js**, **TypeScript**, and **Tailwind CSS**. This portfolio is designed to be interactive, modern, and responsive, highlighting my work and giving users an engaging experience.
 
-![image](https://github.com/user-attachments/assets/56e3c8da-67e5-4560-bb00-6281b80d6bde)
-<img src="ss.png" alt="">
-<img src="https://github.com/Atulsharma428/Atul_portfolio/blob/main/ss.png" alt="lander" width="300"/>
+<img src="https://github.com/Atulsharma428/Atul_portfolio/blob/main/ss.png" alt="lander" width="500"/>
 
 
 ## 🚀 Live Demo
