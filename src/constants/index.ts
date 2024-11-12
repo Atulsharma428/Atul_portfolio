@@ -78,8 +78,8 @@ const technologies: TTechnology[] = [
     icon: html,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Tailwind CSS",
+    icon: tailwind,
   },
   {
     name: "JavaScript",
@@ -97,18 +97,15 @@ const technologies: TTechnology[] = [
     name: "Linux",
     icon: linux,
   },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  
+  // {
+  //   name: "Node JS",
+  //   icon: nodejs,
+  // },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
   {
     name: "python",
     icon: python,
@@ -117,18 +114,18 @@ const technologies: TTechnology[] = [
     name: "git",
     icon: git,
   },
-  {
-    name: "github",
-    icon: github,
-  },
-  {
-    name: "vercel",
-    icon: vercel,
-  },
-  {
-    name: "postman",
-    icon: postman,
-  },
+  // {
+  //   name: "github",
+  //   icon: github,
+  // },
+  // {
+  //   name: "vercel",
+  //   icon: vercel,
+  // },
+  // {
+  //   name: "postman",
+  //   icon: postman,
+  // },
 ];
 
 const experiences: TExperience[] = [
