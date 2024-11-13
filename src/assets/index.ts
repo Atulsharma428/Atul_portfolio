@@ -22,7 +22,7 @@ import persistent from "./company/PERSISTENT.NS.png";
 import yolo from "./tech/yolo.webp";
 import trillo2 from "./tech/trillo2.png";
 import python from "./tech/python.png";
-import github from "./tech/github.png";
+import github from "./github.png";
 export {
   github,
   python,
